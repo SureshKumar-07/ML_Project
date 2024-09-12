@@ -53,7 +53,7 @@ To use this notebook, ensure you have the required libraries installed. You can 
 You can install the required libraries using pip:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
+pip install numpy pandas matplotlib seaborn scikit-learn'''
 
 
 Feel free to adjust the content according to the specific details and structure of your notebook!
